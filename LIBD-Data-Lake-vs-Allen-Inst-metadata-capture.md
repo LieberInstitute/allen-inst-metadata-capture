@@ -1,8 +1,7 @@
 # Data Lake vs Allen Institute Metadata Capture
 
 **Can this metadata capture system help Lieber Institute with data management
-and migration of petabytes of genomic data to an AWS data lake?
-**
+and migration of petabytes of genomic data to an AWS data lake?**
 
 ## Short Answer
 
